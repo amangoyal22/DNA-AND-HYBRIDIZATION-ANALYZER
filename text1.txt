@@ -1,0 +1,2 @@
+aT,ta,GC,CG,gc,ta,at,cg$
+gc,cg,GC,at,gc,at,ta,gc$
